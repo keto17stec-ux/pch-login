@@ -284,8 +284,8 @@ export default function App() {
 
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="bg-gradient-to-br from-gray-100 to-gray-200 rounded-xl overflow-hidden">
-              <img src="/car.jpeg"/>
-               alt="Toyota Hybrid Corolla"
+              <img src="/car.jpeg" alt="car" />
+               
                 className="w-full h-full object-cover"
               />
             </div>
