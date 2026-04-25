@@ -262,7 +262,7 @@ export default function App() {
             </div>
             <div className="text-right">
               <p className="text-gray-600 text-sm">Welcome back,</p>
-              <p className="text-2xl font-bold text-gray-800">William</p>
+              <p className="text-2xl font-bold text-gray-800">Andre Mack</p>
             </div>
           </div>
         </div>
